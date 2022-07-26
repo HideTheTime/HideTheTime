@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HideTheTime&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HideTheTime&show_icons=true&theme=Gradient)
